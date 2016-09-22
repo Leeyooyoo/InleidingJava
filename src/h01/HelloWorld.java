@@ -12,6 +12,6 @@ public class HelloWorld extends Applet {
     public void paint(Graphics g) {
         super.paint(g);
 
-        g.drawString("Hallo wereld!", 50, 50);
+        g.drawString("Hello Wooouurrlldd!", 50, 50);
     }
 }
