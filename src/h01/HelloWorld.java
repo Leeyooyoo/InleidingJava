@@ -4,7 +4,7 @@ import java.applet.Applet;
 import java.awt.*;
 
 /**
- * Created by Pamela Currie on 22-9-2016.
+ * Created by Leeyoo on 22-9-2016.
  */
 public class HelloWorld extends Applet {
 

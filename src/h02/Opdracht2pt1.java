@@ -4,7 +4,7 @@ import java.awt.*;
 import java.applet.*;
 
 /**
- * Created by Pamela Currie on 22-9-2016.
+ * Created by Leeyoo on 22-9-2016.
  */
 public class Opdracht2pt1 extends Applet {
 
