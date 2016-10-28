@@ -7,7 +7,7 @@ import java.awt.event.ActionListener;
 import java.awt.geom.Arc2D;
 
 /**
- * Created by Pamela Currie on 28-9-2016.
+ * Created by Lionel Nolten on 28-9-2016.
  */
 public class Rekenmachine extends Applet {
 
