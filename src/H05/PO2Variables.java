@@ -4,7 +4,7 @@ import java.applet.Applet;
 import java.awt.*;
 
 /**
- * Created by Lionel Nolten on 28-10-2016.
+ * Created by Lionel Nolten on 22-9-2016.
  * Praktijkopdracht van h04 redone met variabelen.
  */
 

@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.lang.*;
 /**
- * Created by Lionel Nolten on 28-10-2016.
+ * Created by Lionel Nolten on 25-10-2016.
  */
 public class Opdr3Plus4 extends Applet {
     //Maand

@@ -4,7 +4,7 @@ import java.applet.Applet;
 import java.awt.*;
 
 /**
- * Created by Lionel Nolten on 4-10-2016.
+ * Created by Lionel Nolten on 21-9-2016.
  */
 
 public class PraktijkOpdracht extends Applet{

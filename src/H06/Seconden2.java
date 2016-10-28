@@ -4,7 +4,7 @@ import java.applet.*;
 import java.awt.*;
 
 /**
- * Created by Pamela Currie on 28-10-2016.
+ * Created by Pamela Currie on 26-9-2016.
  */
 public class Seconden2 extends Applet {
     int uur;

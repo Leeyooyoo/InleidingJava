@@ -4,7 +4,7 @@ import java.applet.Applet;
 import java.awt.*;
 import java.awt.event.*;
 /**
- * Created by Lionel Nolten on 28-10-2016.
+ * Created by Lionel Nolten on 25-10-2016.
  */
 public class POH10 extends Applet {
     TextField T1;

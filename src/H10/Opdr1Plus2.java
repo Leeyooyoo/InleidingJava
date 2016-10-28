@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 /**
- * Created by Lionel Nolten on 28-10-2016.
+ * Created by Lionel Nolten on 24-10-2016.
  * Hoogste en laagste getal.
  */
 public class Opdr1Plus2 extends Applet {

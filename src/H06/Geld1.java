@@ -4,7 +4,7 @@ import java.applet.Applet;
 import java.awt.*;
 
 /**
- * Created by Lionel Nolten on 28-10-2016.
+ * Created by Lionel Nolten on 25-9-2016.
  */
 public class Geld1 extends Applet {
     //Variables

@@ -3,7 +3,7 @@ package H06;
 import java.applet.Applet;
 import java.awt.*;
 /**
- * Created by Lionel Nolten on 28-10-2016.
+ * Created by Lionel Nolten on 26-9-2016.
  */
 public class POh6Gemiddelde extends Applet {
     double cijfer1;
